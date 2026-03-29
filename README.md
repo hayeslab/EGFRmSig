@@ -16,7 +16,7 @@ See the package vignette for an application workflow: [_Tutorial_](https://miyeo
 if (!requireNamespace("devtools", quietly=TRUE)) {
   install.packages("devtools")
 }
-devtools::install_github("minjeongjaykim/EGFRmSig", dependencies=TRUE)
+devtools::install_github("hayeslab/EGFRmSig", dependencies=TRUE)
 ```
 
 
